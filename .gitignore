@@ -1,0 +1,7 @@
+module/build/
+module/dist/
+*.keystore
+*.jks
+*.p12
+local.properties
+.DS_Store
